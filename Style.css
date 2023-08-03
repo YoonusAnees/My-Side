@@ -1,0 +1,22 @@
+
+        body{background-color:lightblue;
+             font-size: 10px;}
+        mark,span{
+    background-color: brown;
+                              }
+         h2{color: brown;}                     
+
+hr{
+    /* height: 50px;
+    width: 50px;
+    border-style: dotted;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-width: 5px;
+    border-color: gray; */
+border: none;
+border-top: 5px gray dotted;
+width: 50px;
+
+}
